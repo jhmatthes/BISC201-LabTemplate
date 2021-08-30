@@ -1,0 +1,34 @@
+---
+title: "Title Here"
+author: "Prof. Jackie Matthes"
+date: "Fall 2021"
+output: pdf_document
+fontsize: 12pt
+urlcolor: blue
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## 1. Introduction
+
+Text
+  
+```{r, message=FALSE}
+# Load the tidyverse library
+library(tidyverse)
+
+```
+
+
+***
+
+**Code Challenge:** 
+Text here
+
+***
+
+
+
